@@ -1,0 +1,25 @@
+4
+3 Rex
+3 Ura
+8 Mesoqden
+5 T-Rex
+4 meat
+1
+6 Bronto
+3 Ura
+10 Trevopasen
+12 Brontosaurus
+5 grass
+0
+5 Ptero
+5 Creda
+7 Letqsht
+11 Pterosaurus
+4 meat
+1
+4 Ihti
+5 Trias
+5 Voden
+11 Ictiosaurus
+4 fish
+0
